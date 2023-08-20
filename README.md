@@ -1,2 +1,4 @@
 # -CODSOFT
-Movie recommendation system project
+Content-based recommendation system
+
+
